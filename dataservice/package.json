@@ -1,0 +1,13 @@
+{
+  "name": "dataservice",
+  "version": "0.0.1",
+  "description": "Docker Image of dataservice",
+  "author": "Perris Davis <Perris.Davis@CapitalOne.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
